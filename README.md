@@ -7,5 +7,5 @@
 4. bird
 5. rabbit
 
-影像檔案存放於 JPEGImages 資料夾
-標注檔案以 VOC (.xml) 格式存放於 Annotations 資料夾
+影像檔案存放於 JPEGImages 資料夾\
+標註檔案以 VOC (.xml) 格式存放於 Annotations 資料夾
